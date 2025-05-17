@@ -1,10 +1,9 @@
-## Hi there 👋
+## Hi there 👋 🚀 
 
 <!--
 **HungH206/HungH206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 🚀 About Me
 My name is Hung Gia Hoang. I am a Junior Computer Science student at the University of Houston with experience developing projects in hackathons and academic settings. I'm interested in developing full-stack applications, Machine Learning, and Data Science.
 
 ## 🛠 Skills
