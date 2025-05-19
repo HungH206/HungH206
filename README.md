@@ -18,7 +18,7 @@ Interests in: Object-Oriented Programming, Data Structures, Algorithms, Machine 
 Other Skills: Technical Writing, Microsoft Office, Problem Solving, Time Management, Data Analytics
 
 
-## Other Common Github Profile Sections
+## Other Things About Me
 🧑‍💻 I'm currently working on different hackathon projects, and Technical Interviewing 
 
 🧠 I'm currently learning about MongoDB, Swift, and Next.js
