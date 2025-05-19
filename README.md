@@ -9,7 +9,7 @@ My name is Hung Gia Hoang. I'm a Junior Computer Science student at the Universi
 ## 🛠 Skills
 Programming: Python, C++, Java, Golang, JavaScript, HTML/CSS, PostgreSQL
 
-Frameworks: Node.js, React, Flask, FastAPI
+Frameworks: Node.js, React, TypeScript, Flask, FastAPI
 
 Tools: Git/GitHub, Docker, VS Code, Xcode, Azure, Google Cloud, Figma, AWS
 
