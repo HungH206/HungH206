@@ -1,4 +1,4 @@
-## Hi there 👋 🚀 
+## Hi there 👋 
 
 <!--
 **HungH206/HungH206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 
 My name is Hung Gia Hoang. I'm a Junior Computer Science student at the University of Houston with experience developing projects in hackathons and academic settings. I'm interested in developing full-stack applications, Machine Learning, and Data Science.
 
-## 🛠 Skills
+## Skills 🛠
 Programming: Python, C++, Java, Golang, JavaScript, HTML/CSS, PostgreSQL
 
 Frameworks: Node.js, React, TypeScript, Flask, FastAPI
@@ -18,7 +18,7 @@ Interests in: Object-Oriented Programming, Data Structures, Algorithms, Machine 
 Other Skills: Technical Writing, Microsoft Office, Problem Solving, Time Management, Data Analytics
 
 
-## Other Things About Me
+## Other Things About Me 🚀 
 🧑‍💻 I'm currently working on different hackathon projects, and Technical Interviewing 
 
 🧠 I'm currently learning about MongoDB, Swift, and Next.js
