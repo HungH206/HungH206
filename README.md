@@ -19,7 +19,7 @@ Other Skills: Technical Writing, Microsoft Office, Problem Solving, Time Managem
 
 
 ## Other Things About Me 🚀 
-🧑‍💻 I'm currently working on different hackathon projects, and Technical Interviewing 
+🧑‍💻 I'm currently working on projects and Technical Interviewing Skills  
 
 🧠 I'm currently learning about MongoDB, Swift, and Next.js
 
