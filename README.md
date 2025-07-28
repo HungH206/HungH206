@@ -7,7 +7,7 @@
 My name is Hung Gia Hoang. I'm a Junior Computer Science student at the University of Houston with experience developing projects in hackathons and academic settings. I'm interested in developing full-stack applications, Machine Learning, AI, Data Science, and more. I'm willing to learn different things, work with different teams, and have some fun in the process! 😎
 
 ## Skills 🛠
-Programming: Python, C++, Java, Golang, JavaScript, HTML/CSS, PostgreSQL
+Programming: Python, C++, Java, JavaScript, HTML/CSS, PostgreSQL, Swift, Golang
 
 Frameworks: Node.js, React, TypeScript, Flask, FastAPI
 
