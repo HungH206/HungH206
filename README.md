@@ -17,7 +17,7 @@ Technical Knowledge: Object-Oriented Programming, Machine Learning, AI Engineeri
 
 
 ## Other Things About Me 🚀 
-🧑‍💻 I'm currently working on my research in Software Quality Research, also open to research opportunities!
+🧑‍💻 I'm currently working on my Software Quality Research and also open to research opportunities!
 
 🧠 I'm currently learning about Data Science, Machine Learning, and AI.
 
