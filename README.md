@@ -8,7 +8,7 @@ My name is Hung Gia Hoang. I'm a Senior Computer Science student at the Universi
 
 ## Current Positions
 1/ Software Engineering Intern - Backend at Resillient Privacy Inc.
-Details:
+
 - Incoming intern in Backend Team Fall 2026
 
 ## Skills 🛠
