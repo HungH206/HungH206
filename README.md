@@ -6,6 +6,11 @@
 
 My name is Hung Gia Hoang. I'm a Senior Computer Science student at the University of Houston with experience developing projects in hackathons and academic settings. I'm interested in developing full-stack applications, Machine Learning, AI, Data Science, and more. I'm willing to learn different things, work with different teams, and have some fun in the process! 😎
 
+## Current Positions
+1/ Software Engineering Intern - Backend at Resillient Privacy Inc.
+Details:
+- Incoming intern in Backend Team Fall 2026
+
 ## Skills 🛠
 Programming: Python, C++, JavaScript, TypeScript, Java, Go, Swift, C#, PostgreSQL, MySQL, R
 
