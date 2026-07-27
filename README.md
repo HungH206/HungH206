@@ -36,7 +36,7 @@ Profile: https://leetcode.com/u/hungh206/
 Lets do some leetcode!
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/VladislavKon?theme=dark&font=Inter&ext=heatmap" />
+  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/HungH206?theme=light&font=Blinker)" />
 </p>
 
 
