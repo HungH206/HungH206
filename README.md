@@ -31,8 +31,6 @@ Technical Knowledge: Object-Oriented Programming, Machine Learning, AI Engineeri
 ## LeetCode
 Profile: https://leetcode.com/u/hungh206/  
 
-<img src="https://img.shields.io/badge/LeetCode-Difficulty%3A_Hard_Only-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-
 Lets do some leetcode!
 
 <p align="center">
