@@ -26,7 +26,7 @@ Technical Knowledge: Object-Oriented Programming, Machine Learning, AI Engineeri
 
 🧠 I'm currently learning about Data Science, Machine Learning, and AI.
 
-🤝 I'm looking to collaborate on academic and open-source projects.
+🤝 I'm willing to collaborate on academic and open-source projects.
 
 ## LeetCode
 Profile: https://leetcode.com/u/hungh206/  
