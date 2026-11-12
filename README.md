@@ -22,7 +22,7 @@ Technical Knowledge: Object-Oriented Programming, Machine Learning, AI Engineeri
 
 
 ## Other Things About Me 🚀 
-🧑‍💻 I'm currently working on a Research project in Noise Sensitivity and also open to research opportunities!
+🧑‍💻 I'm currently working on a CS Research project in Noise Sensitivity and also open to research opportunities!
 
 🧠 I'm currently learning about Data Science, Machine Learning, and AI.
 
